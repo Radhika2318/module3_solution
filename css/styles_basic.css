@@ -3,6 +3,8 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
     color: #1a1a1a;
     background-color: #599e4b;
+    background-image: url("Burger.jpg");
+    background-size: cover;
 }
 
 
